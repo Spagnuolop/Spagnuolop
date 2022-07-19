@@ -26,7 +26,7 @@
 
 ### Quick Start:
 #### Clone repository
-#### Run the nex commands in file root
+#### Run the next commands in file root
 #### npm install
 #### npm start
 #### Open http://localhost:3000 in your browser
