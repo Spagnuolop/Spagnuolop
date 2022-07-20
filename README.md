@@ -42,5 +42,5 @@ Have a question or want to work together?
 
 **Email:** spagnuolopedro@hotmail.com
 
-<a href="https://www.linkedin.com/in/pedro-spagnuolo-108a56245/" target="blank">
-<img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/pedro-spagnuolo-108a56245/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-spagnuolo/" target="blank">
+<img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/pedro-spagnuolo/" height="40" width="40" /></a>
