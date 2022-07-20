@@ -43,4 +43,4 @@ Have a question or want to work together?
 **Email:** spagnuolopedro@hotmail.com
 
 <a href="https://www.linkedin.com/in/victorialauracabrera/" target="blank">
-<img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/pedro-spagnuolo-108a56245/" height="30" width="50" /></a>
+<img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/pedro-spagnuolo-108a56245/" height="40" width="40" /></a>
