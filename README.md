@@ -12,7 +12,7 @@
 
 ## <img align="left" width="60px" style="padding-right:10px" src="logoGrow.png" />Grow Up
 
-<a href="https://e-commerce-books.vercel.app/"><img align="left"  style="margin-bottom:1%" width= "100%" src='growUp.jpeg' /></a>
+<img align="left"  style="margin-bottom:1%" width= "100%" src='growUp.jpeg' />
 
 ### A complete e-commerce website about a personal development library and more.
 
