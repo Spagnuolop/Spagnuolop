@@ -16,6 +16,13 @@
 
 ### A complete e-commerce website about a personal development library and more.
 
+### Quick Start:
+#### Clone repository
+#### Run the next commands in file root
+#### npm install
+#### npm start
+#### Open http://localhost:3000 in your browser
+
 ### 🛠️ Technologies: React, Redux, NodeJs, Express, Axios, MongoDb, Mongoose, etc.
 
 ---
